@@ -1,4 +1,4 @@
-A simple Python project that analyzes students' marks using Pandas and NumPy.
+A simple Python project that analyzes students marks using Pandas and NumPy.
 It calculates total marks, averages, subject-wise performance, and ranks students based on their overall scores.
 
 Project Overview -
